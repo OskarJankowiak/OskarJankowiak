@@ -1,6 +1,6 @@
 ### Hi there, I'm Oskar 👋
 
-24 years old, from small vilage,  near Poznań, Poland. Passionate about web development, self-taught. Currently focusing on technologies from the React.js ecosystem. 
+24 years old, from small vilage,  near Poznań, Poland. Passionate about web development, self-taught.
 <!--
 **OskarJankowiak/OskarJankowiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
